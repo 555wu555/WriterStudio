@@ -16,7 +16,7 @@ WriterStudio 是一款面向中文小说写作的 Windows 桌面应用，使用 
 
 启用 AI 时，可在设置页选择本机 Ollama 模型，或添加兼容的云端服务。云端服务的 API Key 保存在 Windows 凭据管理器；使用云端模型时，生成建议所需的写作上下文会发送到所选服务。请自行确认服务商的数据处理规则。
 
-安装包在 [Releases](https://github.com/555wu555/WriterStudio/releases) 页面发布。构建目录和作品数据不属于源码；下载源码需要自行编译，不能直接运行。
+安装包通过 [Releases](https://github.com/555wu555/WriterStudio/releases) 页面单独发布；如果页面尚无附件，表示暂未提供安装包。构建目录和作品数据不属于源码；下载源码需要自行编译，不能直接运行。
 
 ## 从源码构建
 
