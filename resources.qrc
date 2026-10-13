@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/avatars">
+        <file alias="default-avatar.png">assets/avatars/default-avatar.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="logo.png">assets/icons/logo.png</file>
+        <file alias="library.png">assets/icons/library.png</file>
+        <file alias="writing.png">assets/icons/writing.png</file>
+        <file alias="planning.png">assets/icons/planning.png</file>
+        <file alias="graph.png">assets/icons/graph.png</file>
+        <file alias="settings.png">assets/icons/settings.png</file>
+        <file alias="chevron-down.xpm">assets/icons/chevron-down.xpm</file>
+        <file alias="checkmark.xpm">assets/icons/checkmark.xpm</file>
+        <file alias="tab-close.png">assets/icons/tab-close.png</file>
+        <file alias="tab-close-hover.png">assets/icons/tab-close-hover.png</file>
+        <file alias="tab-close-pressed.png">assets/icons/tab-close-pressed.png</file>
+    </qresource>
+</RCC>
