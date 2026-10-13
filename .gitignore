@@ -1,0 +1,36 @@
+# Local builds and deployment output
+/build-*/
+/cmake-build-*/
+/dist/
+/static/*.exe
+/packaging/Output/
+/packaging/output/
+/packaging/*.iss
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/compile_commands.json
+
+# IDE and operating system state
+/.idea/
+/.vs/
+/.vscode/
+*.user
+*.user.*
+*.suo
+*.swp
+*~
+Thumbs.db
+Desktop.ini
+
+# User novels, archived projects and private development context
+/WriterStudio/
+/static/handoff/TIMEOFF.md
+/assets/icons/hello.iss
+
+# Local secrets and runtime settings
+.env
+.env.*
+*.local.ini
+*.secret
+*.credentials
